@@ -6,12 +6,12 @@ export default {
     black: '#0E0E10',
 
     white: '#FFF',
-    
-    gray: '#CFCFCF'
+
+    gray: '#CFCFCF',
   },
 
   fonts: {
     regular: 'DMSans_400Regular',
-    bold: 'DMSans_700Bold'
-  }
+    bold: 'DMSans_700Bold',
+  },
 }

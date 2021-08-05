@@ -1,4 +1,4 @@
-import styled from 'styled-components/native';
+import styled from 'styled-components/native'
 
 export const Container = styled.Image`
   width: 150px;
@@ -7,4 +7,4 @@ export const Container = styled.Image`
   border-radius: 10px;
 
   margin-right: 16px;
-`;
+`
